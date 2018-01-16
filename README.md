@@ -10,3 +10,18 @@ Redes
 Modem: O modem é um dispositivo que tem a função de decodificar o sinal de internet que chega até o provedor (analógico para digital). 
 
 Roteador: O roteador tem como objetivo distribuir esse sinal de internet para os seus dispositivos
+
+
+VLAN - Rede Virtual
+
+Você pode quebrar o switch em várias partes pode fazer VLAN até com switch diferentes (trunk)
+
+O VLAN também serve para protejer o data center
+
+-----------
+
+Camada de enlace
+
+Existe uma verificação na camada de enlace. 
+Porque ter uma veficiação na camada de enlace se já tem na camada de transporte? 
+Por que é mais fácil verificar um erro se acontecer no ponto a ter que esperar chegar ao outro lado para detectar o erro.
