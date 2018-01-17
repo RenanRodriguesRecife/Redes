@@ -25,3 +25,23 @@ Camada de enlace
 Existe uma verificação na camada de enlace. 
 Porque ter uma veficiação na camada de enlace se já tem na camada de transporte? 
 Por que é mais fácil verificar um erro se acontecer no ponto a ter que esperar chegar ao outro lado para detectar o erro.
+
+-------------------
+
+Comutador x Roteador
+
+- roteador é mais complexo
+
+
+- Cabo - quanto mais transado mais interferencia eletromagnética.
+
+- Os switcher são transparente pois as ligações não sabe que o switch está lá.
+
+- Se não sabe para onde vai, manda para todo mundo
+
+
+Quando tem switches interligados broadcast pode acontecer duplicaçao de frames, pois o frame fica circulando .
+
+-------------------
+
+IEEE 802.1d - Spanning Tree Protocol (STP) transforma em arvores desabilitando alguns switch
