@@ -1,0 +1,1 @@
+OBS: Remova todos os processo de python “pythonw.exe” do Windows task Manager.
